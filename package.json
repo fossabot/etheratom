@@ -53,6 +53,7 @@
     "react-addons-update": "^15.4.2",
     "react-dom": "^16.2.0",
     "solc": "^0.4.11",
+    "string_decoder": "^1.0.3",
     "web3": "^0.20.2"
   },
   "configSchema": {
